@@ -123,6 +123,9 @@ h1, h2, h3, h4, h5, h6 {
 .mb-24 {
     margin-bottom: 24px;
 }
+.logoNav {
+    height: 3.3rem;
+}
 .btn {
     font-style: normal;
     font-weight: 500;

@@ -451,7 +451,7 @@ input[type='text']::placeholder, input[type='email']::placeholder,::placeholder 
     height: 398px;
 }
 .hero-section .image .cover {
-    background: var(--purple-light-1);
+    background: #51468d;
     position: absolute;
     width: 100%;
     max-width: 341px;
